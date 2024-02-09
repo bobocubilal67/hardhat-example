@@ -1,3 +1,4 @@
+![IMG_20240209_092946](https://github.com/dominant-strategies/hardhat-example/assets/157405842/400694e6-f067-4e6c-831d-c4478b4c2ae1)
 ## hardhat-example
 
 `hardhat-example` provides a simple smart contract deployment framework using the Hardhat development kit on Quai Network.
